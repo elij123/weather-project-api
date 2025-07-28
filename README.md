@@ -1,1 +1,1 @@
-An API created using Node and Express for handling API requests to [OpenWeatherMap](https://openweathermap.org) on behalf of weather-project frontend and deployed as the backend service on [Render](render.com).
+An API created using Node and Express for handling API requests to [OpenWeatherMap](https://openweathermap.org) on behalf of weather-project frontend and deployed as the backend service on [Render](https://render.com/).
